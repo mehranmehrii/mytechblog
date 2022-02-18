@@ -3,6 +3,18 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ![Image of fast.ai logo](images/logo.png)
 
+<p>Appointments are now available for:</p>
+
+<ul>
+
+<li><del>3 PM</del></li>
+
+<li><del>4 PM</del></li>
+
+<li>5 PM</li>
+
+</ul>
+
 ## This is a title
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
