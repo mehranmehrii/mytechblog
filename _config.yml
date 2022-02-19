@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: !
+title: Passion for Deep Learning!
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: mehranmehrii
+github_username: MMRI5666
 
 # Email and twitter are optional:
-email: mehran.mehri@yahoo.com
-twitter_username: @mehranmehriii
+email:
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math:
@@ -21,7 +21,7 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
